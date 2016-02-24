@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "binary": {
+    "module_name": "app",
+    "module_path": "./build/{module_name}/v{version}/{node_abi}-{platform}-{arch}/",
+    "host": "https://app/",
+    "remote_path": "./app/{module_name}-prebuilt/releases/download/v{version}/",
+    "package_name": "{node_abi}-{platform}-{arch}.tar.gz"
+  }
+}

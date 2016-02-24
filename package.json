@@ -26,6 +26,7 @@
     "semver": "^5.0.0"
   },
   "devDependencies": {
+    "node-pre-gyp": "^0.6.5",
     "tap": "^2.2.0"
   }
 }
