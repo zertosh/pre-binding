@@ -1,6 +1,6 @@
 {
   "name": "pre-binding",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "node-pre-gyp's find method as a module",
   "keywords": [
     "addon",
